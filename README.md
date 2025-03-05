@@ -1,15 +1,14 @@
+<h1>Hi there 👋 my name is Ersin Ali</h1>
+<h3>Frontend Developer</h3>
 
-<h1 align="center">Hi there 👋 my name is Ersin Ali</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="center">
+<p>
 I’m a passionate web developer who loves building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving tricky problems, and taking on challenges that help me grow as a developer.
 </p>
 
-• &nbsp;&nbsp;&nbsp; 📍 I'm based in Constanța, Romania  
-• &nbsp;&nbsp;&nbsp; 📧 You can contact me at alyersin@yahoo.com  
+• 📍 I'm based in Constanța, Romania  
+• 📧 You can contact me at <a href="mailto:alyersin@yahoo.com">alyersin@yahoo.com</a>  
 
-
+---
 
 ### 🛠️ Skills
 <p align="left">
@@ -57,10 +56,12 @@ I’m a passionate web developer who loves building fast and engaging web applic
   </a>
 </p>
 
+---
 
 ### 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 
+---
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
