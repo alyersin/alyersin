@@ -50,7 +50,7 @@ I’m a passionate web developer who enjoys building fast and engaging web appli
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Adobe Suite -->
+  <!-- Adobe  -->
   <a href="https://helpx.adobe.com/illustrator/user-guide.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
   </a>
