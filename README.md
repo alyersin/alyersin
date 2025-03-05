@@ -9,7 +9,6 @@ I’m a passionate web developer who loves building fast and engaging web applic
 📍 I'm based in Constanta, Romania 
 📧 You can contact me at alyersin@yahoo.com 
 
-**alyersin/alyersin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ### 🛠️ Skills
