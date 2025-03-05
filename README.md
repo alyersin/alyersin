@@ -31,8 +31,8 @@ I’m a passionate web developer who enjoys building fast and engaging web appli
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
-<a href="https://www.chakra-ui.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/gist/tomoyukikashiro/2a45b96a4c47fd6be2777f0db6c34d11/raw/5debe08f740ec3c24559ef3740e2f4f4c3b6a0eb/chakra-ui-logo.svg" width="40" height="40"/>
+<a href="https://chakra-ui.com" target="_blank">
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
 </a>
 
   <!-- Backend & Databases -->
