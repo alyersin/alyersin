@@ -59,7 +59,7 @@ I’m a passionate web developer who enjoys building fast and engaging web appli
 ---
 
 ### 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersin-ali-228301107/)
 
 ---
 
