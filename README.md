@@ -64,4 +64,4 @@ I’m a passionate web developer who loves building fast and engaging web applic
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyersin&layout=compact&theme=tokyonight)
