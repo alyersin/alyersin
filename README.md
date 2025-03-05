@@ -37,7 +37,6 @@ I’m a passionate web developer who loves building fast and engaging web applic
 
 ### 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 
 ### 📊 GitHub Stats
