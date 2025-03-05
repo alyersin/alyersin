@@ -7,6 +7,7 @@ I’m a passionate web developer who loves building fast and engaging web applic
 </p>
 
 📍 I'm based in Constanta, Romania 
+
 📧 You can contact me at alyersin@yahoo.com 
 
 
