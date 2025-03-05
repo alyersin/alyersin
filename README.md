@@ -23,7 +23,6 @@ I’m a passionate web developer who loves building fast and engaging web applic
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="40" height="40"/>
   
   <!-- Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   
