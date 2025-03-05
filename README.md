@@ -2,7 +2,7 @@
 <h3>Frontend Developer</h3>
 
 <p>
-I’m a passionate web developer who loves building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving tricky problems, and taking on challenges that help me grow as a developer.
+I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving complex challenges, and taking on challenges that help me grow as a developer.
 </p>
 
 • 📍 I'm based in Constanța, Romania  
