@@ -32,7 +32,7 @@ I’m a passionate web developer who enjoys building fast and engaging web appli
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   </a>
 <a href="https://chakra-ui.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" width="40" height="40"/>
+  <img src="https://i.imgur.com/rqJ0ZIT.png" width="40" height="40"/>
 </a>
 
   <!-- Backend & Databases -->
