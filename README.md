@@ -6,8 +6,8 @@
 I’m a passionate web developer who loves building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving tricky problems, and taking on challenges that help me grow as a developer.
 </p>
 
-📍 I'm based in [Your Location]  
-📧 You can contact me at [your.email@example.com]  
+📍 I'm based in Constanta, Romania 
+📧 You can contact me at alyersin@yahoo.com 
 
 **alyersin/alyersin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
