@@ -1,4 +1,4 @@
-<h1>Hi there 👋 my name is Ersin Ali</h1>
+<h1>Hi there 👋 my name is Ersin</h1>
 <h3>Frontend Developer</h3>
 
 <p>
