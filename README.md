@@ -5,9 +5,9 @@
 I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving complex challenges, and taking on challenges that help me grow as a developer.
 </p>
 
-*  📍 I'm based in Constanța, Romania  
+*  📍 Constanța, Romania  
 *  📧 You can contact me at <a href="mailto:alyersin@yahoo.com">alyersin@yahoo.com</a>
-*  🌐 My website: <a href="https://www.ersin.site" target="_blank">www.ersin.site</a>
+*  🌐 homepage: <a href="https://www.ersin.site" target="_blank">www.ersin.site</a>
 
 ---
 
