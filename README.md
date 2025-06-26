@@ -1,5 +1,4 @@
 <h1>Hi there 👋 my name is Ersin</h1>
-<h3>Frontend Developer</h3>
 
 <p>
 I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, and taking on challenges that help me grow as a developer.
