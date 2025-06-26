@@ -2,8 +2,12 @@
 <h3>Frontend Developer</h3>
 
 <p>
-I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, solving complex challenges, and taking on challenges that help me grow as a developer.
+I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, and taking on challenges that help me grow as a developer.
 </p>
+
+🔹 Frontend Developer (React, Next.js, Chakra UI, MUi etc.)  
+🔹 Comfortable with backend and databases (Node.js, MySQL, Firebase, PostgreSQL)  
+🔹 **Linux sysadmin:** server setup, automation, troubleshooting, Docker, CI/CD
 
 *  📍 Constanța, Romania  
 *  📧 You can contact me at <a href="mailto:alyersin@yahoo.com">alyersin@yahoo.com</a>
