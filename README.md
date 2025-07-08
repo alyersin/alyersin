@@ -4,8 +4,8 @@
 I’m a passionate web developer who enjoys building fast and engaging web applications. I’m always working on improving my skills, learning new technologies, and taking on challenges that help me grow as a developer.
 </p>
 
-🔹 Frontend Developer (React, Next.js, Chakra UI, MUi etc.)  
-🔹 Comfortable with backend and databases (Node.js, MySQL, Firebase, PostgreSQL)  
+🔹 Frontend Developer (React, Next.js, Chakra UI, MUi)  
+🔹 Comfortable with backend and databases (Node.js, ExpressJS, MySQL, Firebase, PostgreSQL)  
 🔹 **Linux sysadmin:** server setup, automation, troubleshooting, Docker, CI/CD
 
 *  📍 Constanța, Romania  
