@@ -10,7 +10,7 @@ I’m a passionate web developer who enjoys building fast and engaging web appli
 
 *  📍 Constanța, Romania  
 *  📧 You can contact me at <a href="mailto:alyersin@yahoo.com">alyersin@yahoo.com</a>
-*  🌐 homepage: <a href="https://www.ersin.site" target="_blank">www.ersin.site</a>
+*  🌐 homepage: <a href="https://www.ersin.home.ro" target="_blank">www.ersin.home.ro</a>
 
 ---
 
