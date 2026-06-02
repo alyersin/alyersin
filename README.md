@@ -68,4 +68,4 @@ Passionate about building fast and modern web applications. Always trying out ne
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyersin&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800)
+![Top Langs](https://github-advanced-github-readmes.vercel.app/api/top-langs/?username=alyersin&layout=compact&theme=tokyonight)
